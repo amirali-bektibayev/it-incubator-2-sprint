@@ -10,13 +10,14 @@
 .nav {
 }
 
-.nav a {
-}
+
 
 .nav a:hover {
 }
 
-.nav a.active {
+.active {
+    color: red;
+    
 }
 .close {
 }
